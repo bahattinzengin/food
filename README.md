@@ -8,8 +8,8 @@ html![food giff](https://github.com/bahattinzengin/food/assets/140658226/7553387
 ## Gereksinimler
 responsive tasarım uygulandı
 ## Kurulum
-1. Repoyu klonlayın: `git clonehttps https://github.com/bahattinzengin/arabluetur`
-2. Proje klasörüne gidin: `github-clone`
+1. Repoyu klonlayın: [`git clonehttps https://github.com/bahattinzengin/arabluetur`](https://github.com/bahattinzengin/food.git)
+2. Proje klasörüne gidin
 3. index.html dosyasını tarayıcınızda açın
 
 
